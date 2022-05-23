@@ -1,7 +1,0 @@
-NumIterat: 5
-StrStart: 2222220
-Rule: 1-[[0]+0]+1[+10]-0
-Step: 10
-Random offset step: 5
-Turn: 20
-Random offset turn: 5

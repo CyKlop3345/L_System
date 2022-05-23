@@ -1,6 +1,0 @@
-Start string: X
-Rules: F  -->  FF
-          X  -->  F-[[X]+X]+F[+FX]-X
-            -->  
-Turn: 25
-Size Balance: 2
