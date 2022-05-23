@@ -1,0 +1,6 @@
+Start string: G
+Rules: F  -->  FF
+          G  -->  F[-G]+G
+          X  -->  X
+Turn: 45
+Size Balance: 2

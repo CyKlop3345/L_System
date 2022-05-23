@@ -1,0 +1,8 @@
+Start string: [X]++[X]++[X]++[X]++[X]
+Rules: W  -->  YF++ZF----XF[-YF----WF]++
+          X  -->  +YF--ZF[---WF--XF]+
+          Y  -->  -WF++XF[+++YF++ZF]-
+          Z  -->  --YF++++WF[+ZF++++XF]--XF
+          F  -->  
+Turn: 36
+Size Balance: 1

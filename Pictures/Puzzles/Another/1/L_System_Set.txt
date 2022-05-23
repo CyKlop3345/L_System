@@ -1,0 +1,6 @@
+Start string: F+F+F+F+
+Rules: F  -->  F-F+F+FFF-F-FFF-F+F+F-F+F+F-F+F+F-FFF-F-FFF+F+F-F
+          X  -->  X
+          X  -->  X
+Turn: 90
+Size Balance: 7

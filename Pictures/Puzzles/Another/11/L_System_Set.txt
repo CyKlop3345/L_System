@@ -1,0 +1,6 @@
+Start string: 0
+Rules: 0  -->  0FF-FF-FF-FF-ff0FF-FF-FF-FF+f+ff+0FF-FF-FF-FF+f-ff-
+          f  -->  ff
+            -->  
+Turn: 90
+Size Balance: 2

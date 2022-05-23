@@ -1,0 +1,6 @@
+Start string: X
+Rules: X  -->  F[+X][-X]FX
+          F  -->  FF
+            -->  
+Turn: 25
+Size Balance: 2

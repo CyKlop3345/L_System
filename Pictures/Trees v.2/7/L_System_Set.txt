@@ -1,0 +1,7 @@
+NumIterat: 5
+StrStart: 2222220
+Rule: 11[+0][-0]110
+Step: 10
+Random offset step: 5
+Turn: 30
+Random offset turn: 10

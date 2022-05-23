@@ -1,0 +1,8 @@
+Start string: F
+Rules: F  -->  FAF+
+            -->  
+            -->  
+            -->  
+            -->  
+Turn: 90
+Size Balance: 16
