@@ -108,8 +108,8 @@ def path():
     filename = filedialog.askdirectory()
     folderPath.set(filename)
 
-def savePic(numIterat):
-    global folderPath
+def savePic():
+    global folderPath, numIterat
     if folderPath.get() == "":
         path()
     curPath = os.getcwd()

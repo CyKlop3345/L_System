@@ -1,0 +1,7 @@
+NumIterat: 4
+StrStart: 0
+Rule: 0[^0]0[^0]0
+Step: 5
+Random offset step: 3
+Turn: 20
+Random offset turn: 5

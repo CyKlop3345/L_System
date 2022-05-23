@@ -38,7 +38,7 @@ def path():
     Logic.path()
 
 def savePic():
-    Logic.savePic(numIterat)
+    Logic.savePic()
 
 def saveSettings():
     Logic.saveSettings()
