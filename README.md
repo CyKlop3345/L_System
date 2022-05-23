@@ -26,7 +26,7 @@ For graphical view we can use **Python** with pre-installed instrument -- Turtle
 * '-' -- turn left by 90 degrees.
 
 And we get the following result (number of iteration is 4th):
-</br>![Pic](/For_Git/L_System_4.png)
+</br>![Pic](/For_Git/1.png)
 
 # Programs
 
@@ -40,8 +40,8 @@ In the repository there are tree exe files:
 # Pictures
 
 All picture and instruction exist in repository.
-![Pic](Pictures/Puzzles/Squares/L_System_3.png)
-![Pic](Pictures/Puzzles/Mosaic_(Wow!)/L_System_4.png)
-![Pic](Pictures/Trees_v.2/1/L_System_1.png)
-![Pic](Pictures/Trees_v.2/5/L_System_1.png)
+![Pic](/For_Git/2.png)
+![Pic](/For_Git/3.png)
+![Pic](/For_Git/4.png)
+![Pic](/For_Git/5.png)
 ![Pic](Pictures/Trees_(animated)/TreeAnim3.gif)
