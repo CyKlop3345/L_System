@@ -39,7 +39,7 @@ In the repository there are tree exe files:
 
 # Pictures
 
-All picture and instruction exist in repository.
+All picture and instruction exist in the repository.
 
 ![Pic](/For_Git/2.png)
 ![Pic](/For_Git/3.png)
